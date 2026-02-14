@@ -4,7 +4,7 @@ Welcome to my GitHub!
 
 My name is Aaron Owens, and I've been an avid computer programmer since the age of 12. I completed my first big software project when I was in my late teens, a website and Internet forum written in HTML, CSS, JavaScript, and PHP with a MySQL database.
 
-In recent years, I decided to go back to school to earn my *Bachelor of Science in Software Engineering.* I used my electives to pick up a *Certificate in Cyber Defense* while I was at it and was able to make straight A's while working full time in banking and real estate.
+In recent years, I decided to go back to school to earn my *Bachelor of Science in Software Engineering.* I used my electives to pick up a *Certificate in Cyber Defense* while I was at it and earned straight A's while working full time in banking and real estate.
 
 Now, I spend my free time studying software engineering and building new projects.
 
