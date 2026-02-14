@@ -16,9 +16,20 @@ Feel free to check out some of my projects or reach out to me!
 
 ## Current Project
 
-[shiftER](https://github.com/AaronOwensSE/shiftER) - A full-stack, multi-user scheduling app for mobile devices.
+[shiftER](https://github.com/AaronOwensSE/shiftER) - A full-stack, multi-user scheduling app for mobile devices. Utilizes Expo, React Native, JavaScript, Node.js, Express, PostgreSQL, and Jest.
 
-## My Reading List
+## Skills
+
+- Languages: C++, Java, Python, JavaScript, SQL, C, Racket, Prolog, x86 Assembly
+- Frontend: React, React Native, HTML, CSS, Expo
+- Backend: Node.js, Express, PHP
+- Databases: PostgreSQL, SQLite, MySQL
+- Testing: Jest
+- Operating Systems: Linux, Windows
+- Version Control: Git, GitHub
+- Methodologies: Scrum
+
+## Reading List
 
 - *Scrum: The Art of Doing Twice the Work in Half the Time* by Jeff Sutherland and J. J. Sutherland
 - *Code Complete* by Steve McConnell
