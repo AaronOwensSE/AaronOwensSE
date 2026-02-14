@@ -1,5 +1,7 @@
 # About Me
 
+## Introduction
+
 Welcome to my GitHub!
 
 My name is Aaron Owens, and I've been an avid computer programmer since the age of 12. I completed my first big software project when I was in my late teens, a website and Internet forum written in HTML, CSS, JavaScript, and PHP with a MySQL database.
