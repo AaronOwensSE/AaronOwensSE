@@ -40,7 +40,7 @@ Feel free to check out some of my projects or reach out to me!
 - Prolog
 - x86 Assembly
 
-### Frontend-Specific Languages and Technologies
+### Frontend Languages and Technologies
 
 - React
 - React Native
@@ -48,7 +48,7 @@ Feel free to check out some of my projects or reach out to me!
 - CSS
 - Expo
 
-### Backend-Specific Languages and Technologies
+### Backend Languages and Technologies
 
 - Node.js
 - Express
