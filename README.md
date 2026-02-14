@@ -1,7 +1,5 @@
 # About Me
 
-## Introduction
-
 Welcome to my GitHub!
 
 My name is Aaron Owens, and I've been an avid computer programmer since the age of 12. I completed my first big software project when I was in my late teens, a website and Internet forum written in HTML, CSS, JavaScript, and PHP with a MySQL database.
@@ -16,11 +14,11 @@ Above all, I simply enjoy *software construction.* *Coding.* Coding from well-un
 
 Feel free to check out some of my projects or reach out to me!
 
-## Current Project
+# Current Project
 
 [shiftER](https://github.com/AaronOwensSE/shiftER) - A full-stack, multi-user scheduling app for mobile devices. Utilizes Expo, React Native, JavaScript, Node.js, Express, PostgreSQL, and Jest.
 
-## Reading List
+# Reading List
 
 - *Scrum: The Art of Doing Twice the Work in Half the Time* by Jeff Sutherland and J. J. Sutherland
 - *Code Complete* by Steve McConnell
@@ -28,9 +26,9 @@ Feel free to check out some of my projects or reach out to me!
 - *Structure and Interpretation of Computer Programs* by Harold Abelson and Jay Sussman with Julie Sussman
 - *Operating Systems: Three Easy Pieces* by Remzi Arpaci-Dusseau and Andrea Arpaci-Dusseau
 
-## Skills
+# Skills
 
-### Languages
+## Languages
 
 - C++
 - Java
@@ -42,7 +40,7 @@ Feel free to check out some of my projects or reach out to me!
 - Prolog
 - x86 Assembly
 
-### Frontend Languages and Technologies
+## Frontend Languages and Technologies
 
 - React
 - React Native
@@ -50,33 +48,33 @@ Feel free to check out some of my projects or reach out to me!
 - CSS
 - Expo
 
-### Backend Languages and Technologies
+## Backend Languages and Technologies
 
 - Node.js
 - Express
 - PHP
 
-### Databases
+## Databases
 
 - PostgreSQL
 - SQLite
 - MySQL
 
-### Testing
+## Testing
 
 - Jest
 
-### Operating Systems
+## Operating Systems
 
 - Linux
 - Windows
 
-### Version Control
+## Version Control
 
 - Git
 - GitHub
 
-### Methodologies
+## Methodologies
 
 - Scrum
 - Waterfall
