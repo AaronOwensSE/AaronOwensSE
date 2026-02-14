@@ -20,14 +20,55 @@ Feel free to check out some of my projects or reach out to me!
 
 ## Skills
 
-- Languages: C++, Java, Python, JavaScript, SQL, C, Racket, Prolog, x86 Assembly
-- Frontend: React, React Native, HTML, CSS, Expo
-- Backend: Node.js, Express, PHP
-- Databases: PostgreSQL, SQLite, MySQL
-- Testing: Jest
-- Operating Systems: Linux, Windows
-- Version Control: Git, GitHub
-- Methodologies: Scrum
+### Languages
+
+- C++
+- Java
+- Python
+- JavaScript
+- SQL
+- C
+- Racket
+- Prolog
+- x86 Assembly
+
+### Frontend-Specific Languages and Technologies
+
+- React
+- React Native
+- HTML
+- CSS
+- Expo
+
+### Backend-Specific Languages and Technologies
+
+- Node.js
+- Express
+- PHP
+
+### Databases
+
+- PostgreSQL
+- SQLite
+- MySQL
+
+### Testing
+- Jest
+
+### Operating Systems
+
+- Linux
+- Windows
+
+### Version Control
+
+- Git
+- GitHub
+
+### Methodologies
+
+- Scrum
+- Waterfall
 
 ## Reading List
 
