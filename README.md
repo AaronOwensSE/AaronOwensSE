@@ -4,15 +4,15 @@ Welcome to my GitHub!
 
 My name is Aaron Owens, and I've been an avid computer programmer since the age of 12. I completed my first big software project when I was in my late teens, a website and Internet forum written in HTML, CSS, JavaScript, and PHP with a MySQL database.
 
-In recent years, I decided to go back to school to earn a **Bachelor of Science in Software Engineering** from The University of Texas at Dallas. I used my electives to pick up a **Certificate in Cyber Defense** while I was at it and earned straight A's while working full time in banking and real estate.
+In recent years, I decided to go back to school to acquire a **Bachelor of Science in Software Engineering** from The University of Texas at Dallas, earning straight A's while working full time in banking and real estate. While I was at it, I used my electives to pick up a **Certificate in Cyber Defense.**
 
 Now, I spend my free time studying software engineering and building new projects.
 
 My favorite kinds of work are **backend development** and **full-stack development,** although I enjoy diving into just about any project. I'm particularly interested in architecture, design, security, testing, deployment, and effective techniques for requirements gathering and project management.
 
-Above all, I enjoy **software construction.** **Coding.** Coding from well-understood design and architecture. Coding in the right programming language for the job. Coding with best practices and project organization in mind. I have never lost the joy of seeing something I've written come to life.
+Above all, I enjoy **software construction.** **Coding.** Coding from well-understood design and architecture. Coding in the right programming language for the job. Coding with best practices and separation of concerns in mind. I have never lost the joy of seeing something I've written come to life.
 
-Feel free to check out some of my projects or reach out to me!
+Feel free to check out my projects or reach out to me!
 
 # Current Project
 
