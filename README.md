@@ -1,6 +1,6 @@
 # About Me
 
-My name is Aaron Owens, and I've been an avid computer programmer since the age of 12. I completed my first big software project when I was in my late teens, a website and Internet forum written in HTML, CSS, JavaScript, and PHP with a MySQL database.
+My name is Aaron Owens. I've been an avid computer programmer since the age of 12. I completed my first big software project when I was in my late teens, a website and Internet forum written in HTML, CSS, JavaScript, and PHP with a MySQL database.
 
 In recent years, I decided to go back to school to acquire a **Bachelor of Science in Software Engineering** from The University of Texas at Dallas, earning straight A's while working full time in banking and real estate. At the same time, I used my elective classes to earn a **Certificate in Cyber Defense.**
 
