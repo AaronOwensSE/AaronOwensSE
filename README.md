@@ -14,7 +14,7 @@ Feel free to check out my projects or reach out to me.
 
 # Current Project
 
-[shiftER-backend](https://github.com/AaronOwensSE/shiftER-backend) - A RESTful API backend for a multi-user scheduling service. Utilizes JavaScript, Node.js, Express, PostgreSQL, Jest, Postman, and Render. Part of [shiftER](https://github.com/AaronOwensSE/shiftER), which also encompasses a mobile frontend utilizing JavaScript, React Native, and Expo.
+[shiftER-backend](https://github.com/AaronOwensSE/shiftER-backend) - A RESTful API backend for a group scheduling service that enables professionals to claim their preferred work shifts using a snake draft (or serpentine draft). Utilizes JavaScript, Node.js, Express, PostgreSQL, Jest, Postman, and Render. Part of [shiftER](https://github.com/AaronOwensSE/shiftER), which also encompasses a mobile frontend utilizing JavaScript, React Native, and Expo.
 
 # Plans for Future Projects
 
@@ -22,9 +22,9 @@ Feel free to check out my projects or reach out to me.
 
 ### Goal
 
-This system would automate an increasingly cumbersome accounting workflow that I must perform manually every day. It would allow non-accounting users to submit various categories of requests for funds from several different accounts. These requests could then be reviewed by accounting users, approved for processing by an authorized approver, fulfilled and closed out by accounting users, and automatically logged for reporting and auditing.
+I would like to build a system to automate a cumbersome accounting workflow that I must perform manually. It would allow non-accounting users to submit various categories of requests for funds from several different accounts. These requests could then be reviewed by authorized accounting users, approved for processing or denied by an authorized approver, fulfilled and closed out by accounting users, and automatically logged for reporting and auditing.
 
-All of this could be done with a few clicks of the mouse or keyboard and only one instance of data entry. It would eliminate the need to send multiple emails, save emails as PDFs, capture screenshots, navigate a complex file structure, and repeat data entry across various forms and spreadsheets, improving turnaround time by an order of magnitude at least.
+All of this could be done with a few clicks of the mouse or keyboard and only one instance of data entry per field. It would eliminate the need to send multiple emails, save emails as PDFs, capture screenshots, navigate a complex file structure, and repeat data entry across various forms and spreadsheets, improving turnaround time by an order of magnitude at least.
 
 ### Skills Improved
 
