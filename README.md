@@ -32,7 +32,7 @@ All of this could be done with a few clicks of the mouse and keyboard and only o
 
 ### Skills Improved
 
-This project would be an excellent opportunity to explore the Java / Spring Boot backend stack, learn a new authentication scheme, and iterate upon my experience with RESTful API design and role-based access control.
+This project would be an excellent opportunity to explore the Java / Spring Boot backend stack, learn a new authentication scheme, and iterate upon my experience with RESTful API design, database schema design, and role-based access control.
 
 # Reading List
 
