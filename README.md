@@ -26,9 +26,9 @@ Part of [shiftER](https://github.com/AaronOwensSE/shiftER), which also encompass
 
 ### Goal
 
-I would like to build a system to automate a cumbersome accounting workflow that I must perform manually. It would allow non-accounting users to submit various categories of requests for funds from several different accounts. These requests could then be reviewed by authorized accounting users, approved for processing or denied by an authorized approver, fulfilled and closed out by accounting users, and automatically logged for reporting and auditing.
+I would like to build a system to automate accounting request workflows. It would allow non-accounting users to submit various categories of requests for funds from several different accounts. These requests could then be reviewed by authorized accounting users, approved for processing or denied by an authorized approver, fulfilled and closed out by accounting users, and automatically logged for reporting and auditing.
 
-All of this could be done with a few clicks of the mouse or keyboard and only one instance of data entry per field. It would eliminate the need to send multiple emails, save emails as PDFs, capture screenshots, navigate a complex file structure, and repeat data entry across various forms and spreadsheets, improving turnaround time by an order of magnitude at least.
+All of this could be done with a few clicks of the mouse and keyboard and only one instance of data entry per field. I know from experience that this system would eliminate the need to send multiple emails, save emails as PDFs, capture screenshots, navigate complex file structures, and repeat data entry across various forms and spreadsheets, improving turnaround time by an order of magnitude at least for organizations that perform these workflows manually.
 
 ### Skills Improved
 
