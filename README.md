@@ -8,7 +8,7 @@ Now, I spend my free time studying software engineering and building new project
 
 My favorite type of work is **backend development,** although I enjoy diving into just about any project. I'm particularly interested in architecture, design, security, testing, deployment, and effective techniques for requirements gathering and project management.
 
-Above all, I enjoy **software construction.** **Coding.** Coding from well-understood design and architecture. Coding in the right programming language for the job. Coding with best practices and separation of concerns in mind. I have never lost the joy of seeing something I've written come to life.
+Above all, I enjoy **software construction.** Coding. Coding from well-understood design and architecture. Coding in the right programming language for the job. Coding with best practices and separation of concerns in mind. I have never lost the joy of seeing something I've written come to life.
 
 Feel free to check out my projects or reach out to me.
 
@@ -28,11 +28,11 @@ Part of [shiftER](https://github.com/AaronOwensSE/shiftER), which also encompass
 
 I would like to build a system to automate accounting request workflows. It would allow non-accounting users to submit various categories of requests for funds from several different accounts. These requests could then be reviewed by authorized accounting users, approved for processing or denied by an authorized approver, fulfilled and closed out by accounting users, and automatically logged for reporting and auditing.
 
-All of this could be done with a few clicks of the mouse and keyboard and only one instance of data entry per field. I know from experience that this system would eliminate the need to send multiple emails, save emails as PDFs, capture screenshots, navigate complex file structures, and repeat data entry across various forms and spreadsheets, improving turnaround time by an order of magnitude at least for organizations that perform these workflows manually.
+All of this could be done with a few clicks of the mouse and keyboard and only one instance of data entry per field. I know from experience that this system would eliminate the need to send multiple emails, save emails as PDFs, capture screenshots, navigate complex file structures, and repeat data entry across various forms and spreadsheets, improving turnaround time by an order of magnitude for organizations that perform these workflows manually.
 
 ### Skills Improved
 
-This project would be an excellent opportunity to explore the Java / Spring Boot backend stack, learn a new authentication scheme, and iterate upon my experience with RESTful API design, database schema design, and role-based access control.
+This project would be an excellent opportunity to explore a new backend stack, such as Java / Spring Boot, learn a new authentication scheme, and iterate upon my experience with RESTful API design, database schema design, and role-based access control.
 
 # Reading List
 
@@ -46,7 +46,7 @@ This project would be an excellent opportunity to explore the Java / Spring Boot
 
 ## Languages
 
-C++, Java, Python, JavaScript, SQL, C, Racket, Prolog, x86 Assembly
+JavaScript, Java, Python, C++, C, Racket, Prolog, x86 Assembly
 
 ## Frontend
 
@@ -54,7 +54,7 @@ React, React Native, HTML, CSS, Expo
 
 ## Backend
 
-Node.js, Express, REST, HTTP, PHP
+Node.js, Express, SQL, REST, HTTP, PHP
 
 ## Databases
 
