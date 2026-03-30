@@ -14,7 +14,7 @@ Feel free to check out my projects or reach out to me.
 
 # Current Project
 
-[shiftER-backend](https://github.com/AaronOwensSE/shiftER-backend) - A RESTful API backend for a group scheduling service that enables professionals to claim their preferred work shifts using a snake draft (or serpentine draft).
+[shiftER-backend](https://github.com/AaronOwensSE/shiftER-backend) - A RESTful API backend for a group scheduling service that enables professionals to coordinate work schedules using a snake draft (or serpentine draft).
 
 Utilizes JavaScript, Node.js, Express, PostgreSQL, Jest, Postman, and Render.
 
